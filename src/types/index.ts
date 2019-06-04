@@ -8,9 +8,9 @@
  * @param oozieUrl - The API URL http://127.0.0.1:11000/oozie
 */
 type typeOozieConfig = {
-  apiVersion: apiVersion|undefined|null,
-  timeout: number|undefined|null,
-  serviceVersion: serviceVersion|undefined|null
+  apiVersion?: apiVersion|undefined|null,
+  timeout?: number|undefined|null,
+  serviceVersion?: serviceVersion|undefined|null
   oozieUrl: string
 };
 
