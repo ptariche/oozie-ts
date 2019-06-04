@@ -283,7 +283,7 @@ class Oozie {
       path+= `&value=${options.value}`;
     }
 
-    return await this.retrieve(httpMethods.PUT, path, xml ? xml : null);
+    return await this.retrieve(httpMethods.PUT, path, xml ? xml : null, this.xmlHeader());
   };
 
   public getJob:getJobFunction = async (jobId, show, timezone, version) => {
