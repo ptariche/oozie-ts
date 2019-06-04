@@ -47,7 +47,9 @@ class Oozie {
       (error: AxiosError) => {
         return Promise.reject(
           error.response &&
-          error.response.data
+          error.response.headers && error.response.headers['oozie-error-message'] && error.response.headers['oozie-error-code'] ?
+          { oozie_message: error.response.headers['oozie-error-message'], oozie_code: error.response.headers['oozie-error-code'] }
+          : error.response.data
         );
       }
     );
