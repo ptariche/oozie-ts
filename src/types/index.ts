@@ -2,9 +2,9 @@
  * @remarks
  * The configuration values for the node module
  *
- * @param apiVersion - The API version of the API you're using 1 or 2
- * @param serviceVersion - The API version of the API you're using 4 or 5
- * @param timeout - The Timeout limitation in milliseconds
+ * @param apiVersion - Optional* The API version of the API you're using 1 or 2
+ * @param serviceVersion - Optional* The API version of the API you're using 4 or 5
+ * @param timeout - Optional* The Timeout limitation in milliseconds
  * @param oozieUrl - The API URL http://127.0.0.1:11000/oozie
 */
 type typeOozieConfig = {
@@ -18,7 +18,7 @@ type typeOozieConfig = {
  * @remarks
  * The Axios Retrieve Function Signature
  *
- * @param body - The body to post or put
+ * @param body - Optional* The body to post or put
  * @param route - The rest path
  * @param method - HTTP Method: get,post,put,delete,patch
  * 
@@ -29,7 +29,7 @@ type retrieveFunction = (method: httpMethods, route: string, body?: object|strin
  * @remarks
  * Lookup the Status of Oozie
  *
- * @param apiVersion - Override the API version from your config
+ * @param apiVersion - Optional* Override the API version from your config
 */
 type versionFunction = () =>  Promise<number[]>;
 
