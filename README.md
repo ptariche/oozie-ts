@@ -25,7 +25,13 @@ $ npm start
 ### Usage
 ```js
   import {client} from 'oozie-api';
-  const client = require('oozie-api').client;
+  const CLIENT = require('oozie-api').client;
+```
+
+### Enums Usage
+```js
+  import * as OozieAPIEnums from 'oozie-api/types';
+  const OOZIEAPI_ENUMS = require('oozie-api/types');
 ```
 
 ### Development
