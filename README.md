@@ -50,7 +50,7 @@ $ npm run build
 ```
 
 #### Testing
-* Uses Jest, Supertest, Chai and MongoDB Memory Server
+* Uses Jest, Supertest, Chai - Integration Tests needed
 
     ```sh
     npm test
