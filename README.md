@@ -6,7 +6,7 @@ A Node module for Oozie in Typescript
 
 ## Documentation
 
-* [MARKDOWN](./docs-markdown/README.md)
+* [MARKDOWN](./docs-markdown/api-readme.md)
 * [HTML](./docs-html/index.html)
 
 ----
@@ -19,7 +19,6 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 $ npm install --save oozie-api
-$ npm start
 ```
 
 ### Usage
