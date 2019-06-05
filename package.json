@@ -1,11 +1,11 @@
 {
   "name": "oozie-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A node module for oozie in Typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "prepublish": "npm run build && npm run documentation-html && npm run documentation-markdown",
+    "build-document": "npm run build && npm run documentation-html && npm run documentation-markdown",
     "documentation-html": "./node_modules/.bin/typedoc --target ES6 --out docs-html/ ./src",
     "documentation-markdown": "./node_modules/.bin/typedoc --theme markdown --out docs-markdown/ ./src",
     "build": "./node_modules/.bin/tsc",

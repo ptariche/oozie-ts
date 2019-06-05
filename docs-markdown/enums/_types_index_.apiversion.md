@@ -19,7 +19,7 @@
 
 **ONE**:  = 1
 
-*Defined in [types/index.ts:241](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L241)*
+*Defined in [types/index.ts:241](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L241)*
 
 ___
 <a id="two"></a>
@@ -28,7 +28,7 @@ ___
 
 **TWO**:  = 2
 
-*Defined in [types/index.ts:242](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L242)*
+*Defined in [types/index.ts:242](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L242)*
 
 ___
 

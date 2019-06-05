@@ -19,7 +19,7 @@
 
 **FIVE**:  = 5
 
-*Defined in [types/index.ts:237](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L237)*
+*Defined in [types/index.ts:237](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L237)*
 
 ___
 <a id="four"></a>
@@ -28,7 +28,7 @@ ___
 
 **FOUR**:  = 4
 
-*Defined in [types/index.ts:236](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L236)*
+*Defined in [types/index.ts:236](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L236)*
 
 ___
 

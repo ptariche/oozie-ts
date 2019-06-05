@@ -51,7 +51,7 @@
 
 **Ƭ availableTimezonesFunction**: *`function`*
 
-*Defined in [types/index.ts:98](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L98)*
+*Defined in [types/index.ts:98](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L98)*
 
 *__remarks__*: Lookup the Oozie Available Timezones
 
@@ -75,7 +75,7 @@ ___
 
 **Ƭ buildVersionFunction**: *`function`*
 
-*Defined in [types/index.ts:90](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L90)*
+*Defined in [types/index.ts:90](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L90)*
 
 *__remarks__*: Lookup the Oozie Build Version Information
 
@@ -99,7 +99,7 @@ ___
 
 **Ƭ configurationFunction**: *`function`*
 
-*Defined in [types/index.ts:74](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L74)*
+*Defined in [types/index.ts:74](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L74)*
 
 *__remarks__*: Lookup the Oozie Configuration
 
@@ -123,7 +123,7 @@ ___
 
 **Ƭ environmentFunction**: *`function`*
 
-*Defined in [types/index.ts:58](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L58)*
+*Defined in [types/index.ts:58](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L58)*
 
 *__remarks__*: Lookup the OS Environment
 
@@ -147,7 +147,7 @@ ___
 
 **Ƭ getJobFunction**: *`function`*
 
-*Defined in [types/index.ts:183](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L183)*
+*Defined in [types/index.ts:183](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L183)*
 
 *__remarks__*: Get a Job
 
@@ -180,7 +180,7 @@ ___
 
 **Ƭ getJobsFunction**: *`function`*
 
-*Defined in [types/index.ts:194](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L194)*
+*Defined in [types/index.ts:194](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L194)*
 
 *__remarks__*: Get Jobs
 
@@ -216,7 +216,7 @@ ___
 
 **Ƭ instrumentationFunction**: *`function`*
 
-*Defined in [types/index.ts:82](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L82)*
+*Defined in [types/index.ts:82](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L82)*
 
 *__remarks__*: Lookup the Oozie Instrumentation Information
 
@@ -240,7 +240,7 @@ ___
 
 **Ƭ javaSystemFunction**: *`function`*
 
-*Defined in [types/index.ts:66](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L66)*
+*Defined in [types/index.ts:66](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L66)*
 
 *__remarks__*: Lookup the Java System Properties
 
@@ -264,7 +264,7 @@ ___
 
 **Ƭ jobHiveOptions**: *`object`*
 
-*Defined in [types/index.ts:219](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L219)*
+*Defined in [types/index.ts:219](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L219)*
 
 #### Type declaration
 
@@ -289,7 +289,7 @@ ___
 
 **Ƭ jobMapReduceOptions**: *`object`*
 
-*Defined in [types/index.ts:196](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L196)*
+*Defined in [types/index.ts:196](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L196)*
 
 #### Type declaration
 
@@ -320,7 +320,7 @@ ___
 
 **Ƭ jobPigOptions**: *`object`*
 
-*Defined in [types/index.ts:209](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L209)*
+*Defined in [types/index.ts:209](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L209)*
 
 #### Type declaration
 
@@ -345,7 +345,7 @@ ___
 
 **Ƭ jobSubmissionFunction**: *`function`*
 
-*Defined in [types/index.ts:113](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L113)*
+*Defined in [types/index.ts:113](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L113)*
 
 *__remarks__*: Submit a job with XML Instructions
 
@@ -372,7 +372,7 @@ ___
 
 **Ƭ jobSubmissionHiveFunction**: *`function`*
 
-*Defined in [types/index.ts:158](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L158)*
+*Defined in [types/index.ts:158](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L158)*
 
 *__remarks__*: You can submit a Workflow that contains a single Hive action without writing a workflow.xml. Any requred Jars or other files must already exist in HDFS.
 
@@ -410,7 +410,7 @@ ___
 
 **Ƭ jobSubmissionMapReduceFunction**: *`function`*
 
-*Defined in [types/index.ts:130](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L130)*
+*Defined in [types/index.ts:130](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L130)*
 
 *__remarks__*: You can submit a Workflow that contains a single MapReduce action without writing a workflow.xml. Any required Jars or other files must already exist in HDFS.
 
@@ -454,7 +454,7 @@ ___
 
 **Ƭ jobSubmissionPigFunction**: *`function`*
 
-*Defined in [types/index.ts:144](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L144)*
+*Defined in [types/index.ts:144](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L144)*
 
 *__remarks__*: You can submit a Workflow that contains a single Pig action without writing a workflow.xml. Any requred Jars or other files must already exist in HDFS.
 
@@ -492,7 +492,7 @@ ___
 
 **Ƭ jobType**: *`object` \| `object` \| `null`*
 
-*Defined in [types/index.ts:233](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L233)*
+*Defined in [types/index.ts:233](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L233)*
 
 *__remarks__*: Job Response
 
@@ -503,7 +503,7 @@ ___
 
 **Ƭ manageJobFunction**: *`function`*
 
-*Defined in [types/index.ts:173](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L173)*
+*Defined in [types/index.ts:173](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L173)*
 
 *__remarks__*: You can submit a Workflow that contains a single Hive action without writing a workflow.xml. Any requred Jars or other files must already exist in HDFS.
 
@@ -557,7 +557,7 @@ ___
 
 **Ƭ queueDumpFunction**: *`function`*
 
-*Defined in [types/index.ts:105](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L105)*
+*Defined in [types/index.ts:105](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L105)*
 
 *__remarks__*: Helps Debug by Dumping the Queue
 
@@ -581,7 +581,7 @@ ___
 
 **Ƭ retrieveFunction**: *`function`*
 
-*Defined in [types/index.ts:26](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L26)*
+*Defined in [types/index.ts:26](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L26)*
 
 *__remarks__*: The Axios Retrieve Function Signature
 
@@ -612,7 +612,7 @@ ___
 
 **Ƭ setStatusFunction**: *`function`*
 
-*Defined in [types/index.ts:50](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L50)*
+*Defined in [types/index.ts:50](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L50)*
 
 *__remarks__*: Set the Status of Oozie
 
@@ -637,7 +637,7 @@ ___
 
 **Ƭ statusFunction**: *`function`*
 
-*Defined in [types/index.ts:42](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L42)*
+*Defined in [types/index.ts:42](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L42)*
 
 *__remarks__*: Lookup the Status of Oozie
 
@@ -661,7 +661,7 @@ ___
 
 **Ƭ typeOozieConfig**: *`object`*
 
-*Defined in [types/index.ts:10](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L10)*
+*Defined in [types/index.ts:10](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L10)*
 
 *__remarks__*: The configuration values for the node module
 
@@ -690,7 +690,7 @@ ___
 
 **Ƭ versionFunction**: *`function`*
 
-*Defined in [types/index.ts:34](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L34)*
+*Defined in [types/index.ts:34](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L34)*
 
 *__remarks__*: Lookup the Status of Oozie
 

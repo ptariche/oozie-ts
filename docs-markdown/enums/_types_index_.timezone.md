@@ -49,7 +49,7 @@
 
 **ACT**:  = "GMT+9:30"
 
-*Defined in [types/index.ts:297](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L297)*
+*Defined in [types/index.ts:297](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L297)*
 
 ___
 <a id="aet"></a>
@@ -58,7 +58,7 @@ ___
 
 **AET**:  = "GMT+10:00"
 
-*Defined in [types/index.ts:298](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L298)*
+*Defined in [types/index.ts:298](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L298)*
 
 ___
 <a id="agt"></a>
@@ -67,7 +67,7 @@ ___
 
 **AGT**:  = "GMT-3:00"
 
-*Defined in [types/index.ts:312](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L312)*
+*Defined in [types/index.ts:312](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L312)*
 
 ___
 <a id="art"></a>
@@ -76,7 +76,7 @@ ___
 
 **ART**:  = "GMT+2:00"
 
-*Defined in [types/index.ts:287](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L287)*
+*Defined in [types/index.ts:287](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L287)*
 
 ___
 <a id="ast"></a>
@@ -85,7 +85,7 @@ ___
 
 **AST**:  = "GMT-9:00"
 
-*Defined in [types/index.ts:303](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L303)*
+*Defined in [types/index.ts:303](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L303)*
 
 ___
 <a id="bst"></a>
@@ -94,7 +94,7 @@ ___
 
 **BST**:  = "GMT+6:00"
 
-*Defined in [types/index.ts:293](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L293)*
+*Defined in [types/index.ts:293](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L293)*
 
 ___
 <a id="cat"></a>
@@ -103,7 +103,7 @@ ___
 
 **CAT**:  = "GMT-1:00"
 
-*Defined in [types/index.ts:314](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L314)*
+*Defined in [types/index.ts:314](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L314)*
 
 ___
 <a id="cnt"></a>
@@ -112,7 +112,7 @@ ___
 
 **CNT**:  = "GMT-3:30"
 
-*Defined in [types/index.ts:311](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L311)*
+*Defined in [types/index.ts:311](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L311)*
 
 ___
 <a id="cst"></a>
@@ -121,7 +121,7 @@ ___
 
 **CST**:  = "GMT-6:00"
 
-*Defined in [types/index.ts:307](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L307)*
+*Defined in [types/index.ts:307](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L307)*
 
 ___
 <a id="ctt"></a>
@@ -130,7 +130,7 @@ ___
 
 **CTT**:  = "GMT+8:00"
 
-*Defined in [types/index.ts:295](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L295)*
+*Defined in [types/index.ts:295](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L295)*
 
 ___
 <a id="eat"></a>
@@ -139,7 +139,7 @@ ___
 
 **EAT**:  = "GMT+3:00"
 
-*Defined in [types/index.ts:288](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L288)*
+*Defined in [types/index.ts:288](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L288)*
 
 ___
 <a id="ect"></a>
@@ -148,7 +148,7 @@ ___
 
 **ECT**:  = "GMT+1:00"
 
-*Defined in [types/index.ts:285](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L285)*
+*Defined in [types/index.ts:285](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L285)*
 
 ___
 <a id="eet"></a>
@@ -157,7 +157,7 @@ ___
 
 **EET**:  = "GMT+2:00"
 
-*Defined in [types/index.ts:286](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L286)*
+*Defined in [types/index.ts:286](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L286)*
 
 ___
 <a id="est"></a>
@@ -166,7 +166,7 @@ ___
 
 **EST**:  = "GMT-5:00"
 
-*Defined in [types/index.ts:308](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L308)*
+*Defined in [types/index.ts:308](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L308)*
 
 ___
 <a id="gmt"></a>
@@ -175,7 +175,7 @@ ___
 
 **GMT**:  = "GMT"
 
-*Defined in [types/index.ts:283](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L283)*
+*Defined in [types/index.ts:283](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L283)*
 
 ___
 <a id="hst"></a>
@@ -184,7 +184,7 @@ ___
 
 **HST**:  = "GMT-10:00"
 
-*Defined in [types/index.ts:302](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L302)*
+*Defined in [types/index.ts:302](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L302)*
 
 ___
 <a id="iet"></a>
@@ -193,7 +193,7 @@ ___
 
 **IET**:  = "GMT-5:00"
 
-*Defined in [types/index.ts:309](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L309)*
+*Defined in [types/index.ts:309](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L309)*
 
 ___
 <a id="ist"></a>
@@ -202,7 +202,7 @@ ___
 
 **IST**:  = "GMT+5:30"
 
-*Defined in [types/index.ts:292](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L292)*
+*Defined in [types/index.ts:292](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L292)*
 
 ___
 <a id="jst"></a>
@@ -211,7 +211,7 @@ ___
 
 **JST**:  = "GMT+9:00"
 
-*Defined in [types/index.ts:296](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L296)*
+*Defined in [types/index.ts:296](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L296)*
 
 ___
 <a id="met"></a>
@@ -220,7 +220,7 @@ ___
 
 **MET**:  = "GMT+3:30"
 
-*Defined in [types/index.ts:289](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L289)*
+*Defined in [types/index.ts:289](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L289)*
 
 ___
 <a id="mit"></a>
@@ -229,7 +229,7 @@ ___
 
 **MIT**:  = "GMT-11:00"
 
-*Defined in [types/index.ts:301](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L301)*
+*Defined in [types/index.ts:301](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L301)*
 
 ___
 <a id="mst"></a>
@@ -238,7 +238,7 @@ ___
 
 **MST**:  = "GMT-7:00"
 
-*Defined in [types/index.ts:306](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L306)*
+*Defined in [types/index.ts:306](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L306)*
 
 ___
 <a id="net"></a>
@@ -247,7 +247,7 @@ ___
 
 **NET**:  = "GMT+4:00"
 
-*Defined in [types/index.ts:290](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L290)*
+*Defined in [types/index.ts:290](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L290)*
 
 ___
 <a id="nst"></a>
@@ -256,7 +256,7 @@ ___
 
 **NST**:  = "GMT+12:00"
 
-*Defined in [types/index.ts:300](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L300)*
+*Defined in [types/index.ts:300](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L300)*
 
 ___
 <a id="plt"></a>
@@ -265,7 +265,7 @@ ___
 
 **PLT**:  = "GMT+5:00"
 
-*Defined in [types/index.ts:291](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L291)*
+*Defined in [types/index.ts:291](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L291)*
 
 ___
 <a id="pnt"></a>
@@ -274,7 +274,7 @@ ___
 
 **PNT**:  = "GMT-7:00"
 
-*Defined in [types/index.ts:305](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L305)*
+*Defined in [types/index.ts:305](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L305)*
 
 ___
 <a id="prt"></a>
@@ -283,7 +283,7 @@ ___
 
 **PRT**:  = "GMT-4:00"
 
-*Defined in [types/index.ts:310](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L310)*
+*Defined in [types/index.ts:310](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L310)*
 
 ___
 <a id="pst"></a>
@@ -292,7 +292,7 @@ ___
 
 **PST**:  = "GMT-8:00"
 
-*Defined in [types/index.ts:304](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L304)*
+*Defined in [types/index.ts:304](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L304)*
 
 ___
 <a id="sst"></a>
@@ -301,7 +301,7 @@ ___
 
 **SST**:  = "GMT+11:00"
 
-*Defined in [types/index.ts:299](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L299)*
+*Defined in [types/index.ts:299](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L299)*
 
 ___
 <a id="utc"></a>
@@ -310,7 +310,7 @@ ___
 
 **UTC**:  = "GMT"
 
-*Defined in [types/index.ts:284](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L284)*
+*Defined in [types/index.ts:284](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L284)*
 
 ___
 <a id="vet"></a>
@@ -319,7 +319,7 @@ ___
 
 **VET**:  = "GMT-3:00"
 
-*Defined in [types/index.ts:313](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L313)*
+*Defined in [types/index.ts:313](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L313)*
 
 ___
 <a id="vst"></a>
@@ -328,7 +328,7 @@ ___
 
 **VST**:  = "GMT+7:00"
 
-*Defined in [types/index.ts:294](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L294)*
+*Defined in [types/index.ts:294](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L294)*
 
 ___
 

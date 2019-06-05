@@ -19,7 +19,7 @@
 
 **ACTION**:  = "action"
 
-*Defined in [types/index.ts:272](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L272)*
+*Defined in [types/index.ts:272](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L272)*
 
 ___
 <a id="date"></a>
@@ -28,7 +28,7 @@ ___
 
 **DATE**:  = "date"
 
-*Defined in [types/index.ts:271](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L271)*
+*Defined in [types/index.ts:271](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L271)*
 
 ___
 

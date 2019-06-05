@@ -51,7 +51,7 @@
 
 ⊕ **new Oozie**(config: *[typeOozieConfig](../modules/_types_index_.md#typeoozieconfig)*): [Oozie](_index_.oozie.md)
 
-*Defined in [index.ts:30](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L30)*
+*Defined in [index.ts:30](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L30)*
 
 **Parameters:**
 
@@ -71,7 +71,7 @@ ___
 
 **● axios**: *`AxiosInstance`*
 
-*Defined in [index.ts:30](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L30)*
+*Defined in [index.ts:30](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L30)*
 
 ___
 <a id="config"></a>
@@ -80,7 +80,7 @@ ___
 
 **● config**: *[typeOozieConfig](../modules/_types_index_.md#typeoozieconfig)*
 
-*Defined in [index.ts:29](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L29)*
+*Defined in [index.ts:29](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L29)*
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 ▸ **availableTimezones**(version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:123](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L123)*
+*Defined in [index.ts:123](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L123)*
 
 **Parameters:**
 
@@ -109,7 +109,7 @@ ___
 
 ▸ **buildVersion**(version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:119](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L119)*
+*Defined in [index.ts:119](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L119)*
 
 **Parameters:**
 
@@ -126,7 +126,7 @@ ___
 
 ▸ **configuration**(version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:111](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L111)*
+*Defined in [index.ts:111](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L111)*
 
 **Parameters:**
 
@@ -143,7 +143,7 @@ ___
 
 ▸ **createHiveJob**(options: *`object`*): `Promise`<`any`>
 
-*Defined in [index.ts:231](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L231)*
+*Defined in [index.ts:231](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L231)*
 
 **Parameters:**
 
@@ -168,7 +168,7 @@ ___
 
 ▸ **createJob**(xml: *`string`*, version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:131](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L131)*
+*Defined in [index.ts:131](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L131)*
 
 **Parameters:**
 
@@ -186,7 +186,7 @@ ___
 
 ▸ **createProxyMapReduceJob**(options: *`object`*): `Promise`<`any`>
 
-*Defined in [index.ts:136](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L136)*
+*Defined in [index.ts:136](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L136)*
 
 **Parameters:**
 
@@ -214,7 +214,7 @@ ___
 
 ▸ **createProxyPigJob**(options: *`object`*): `Promise`<`any`>
 
-*Defined in [index.ts:191](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L191)*
+*Defined in [index.ts:191](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L191)*
 
 **Parameters:**
 
@@ -239,7 +239,7 @@ ___
 
 ▸ **environment**(version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:103](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L103)*
+*Defined in [index.ts:103](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L103)*
 
 **Parameters:**
 
@@ -256,7 +256,7 @@ ___
 
 ▸ **getJob**(jobId: *`string`*, show: *[jobGetType](../enums/_types_index_.jobgettype.md)*, timezone: *[timezone](../enums/_types_index_.timezone.md)*, version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:291](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L291)*
+*Defined in [index.ts:291](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L291)*
 
 **Parameters:**
 
@@ -276,7 +276,7 @@ ___
 
 ▸ **getJobs**(filter: *`string`*, offset: *`number`*, limit: *`number`*, timezone: *[timezone](../enums/_types_index_.timezone.md)*, version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:302](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L302)*
+*Defined in [index.ts:302](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L302)*
 
 **Parameters:**
 
@@ -297,7 +297,7 @@ ___
 
 ▸ **getVersion**(version: *`number`*): `number`
 
-*Defined in [index.ts:86](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L86)*
+*Defined in [index.ts:86](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L86)*
 
 **Parameters:**
 
@@ -314,7 +314,7 @@ ___
 
 ▸ **instrumentation**(version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:115](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L115)*
+*Defined in [index.ts:115](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L115)*
 
 **Parameters:**
 
@@ -331,7 +331,7 @@ ___
 
 ▸ **javaSystem**(version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:107](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L107)*
+*Defined in [index.ts:107](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L107)*
 
 **Parameters:**
 
@@ -348,7 +348,7 @@ ___
 
 ▸ **manageJob**(jobId: *`string`*, action: *[jobAction](../enums/_types_index_.jobaction.md)*, xml: *`string`*, options: *`object`*, version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:273](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L273)*
+*Defined in [index.ts:273](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L273)*
 
 **Parameters:**
 
@@ -379,7 +379,7 @@ ___
 
 ▸ **queueDump**(version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:127](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L127)*
+*Defined in [index.ts:127](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L127)*
 
 **Parameters:**
 
@@ -396,7 +396,7 @@ ___
 
 ▸ **retrieve**(method: *[httpMethods](../enums/_types_index_.httpmethods.md)*, route: *`string`*, body: *`string` \| `object`*, options: *`object`*): `Promise`<`any`>
 
-*Defined in [index.ts:61](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L61)*
+*Defined in [index.ts:61](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L61)*
 
 **Parameters:**
 
@@ -416,7 +416,7 @@ ___
 
 ▸ **setStatus**(mode: *[systemMode](../enums/_types_index_.systemmode.md)*, version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:98](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L98)*
+*Defined in [index.ts:98](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L98)*
 
 **Parameters:**
 
@@ -434,7 +434,7 @@ ___
 
 ▸ **status**(version: *[apiVersion](../enums/_types_index_.apiversion.md)*): `Promise`<`any`>
 
-*Defined in [index.ts:94](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L94)*
+*Defined in [index.ts:94](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L94)*
 
 **Parameters:**
 
@@ -451,7 +451,7 @@ ___
 
 ▸ **versions**(): `Promise`<`any`>
 
-*Defined in [index.ts:90](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L90)*
+*Defined in [index.ts:90](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L90)*
 
 **Returns:** `Promise`<`any`>
 
@@ -462,7 +462,7 @@ ___
 
 ▸ **xmlHeader**(): `object`
 
-*Defined in [index.ts:78](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L78)*
+*Defined in [index.ts:78](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L78)*
 
 **Returns:** `object`
 
@@ -473,7 +473,7 @@ ___
 
 ▸ **xmlStatement**(): `string`
 
-*Defined in [index.ts:82](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/index.ts#L82)*
+*Defined in [index.ts:82](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/index.ts#L82)*
 
 **Returns:** `string`
 

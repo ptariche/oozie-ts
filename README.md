@@ -24,14 +24,19 @@ $ npm start
 
 ### Usage
 ```js
-  import {client} from 'oozie-api';
-  const CLIENT = require('oozie-api').client;
+  import {client} from 'oozie-api'; or  const CLIENT = require('oozie-api').client;
+
+  let _client = new CLIENT||client({
+    oozieUrl: 'http://127.0.0.1:11000/oozie'
+  });
+
+  _client..buildVersion().then(result => console.log(result));
+  
 ```
 
 ### Enums Usage
 ```js
-  import * as OozieAPIEnums from 'oozie-api/types';
-  const OOZIEAPI_ENUMS = require('oozie-api/types');
+  import * as OozieAPIEnums from 'oozie-api/types' or   const OOZIEAPI_ENUMS = require('oozie-api/types');
 ```
 
 ### Development

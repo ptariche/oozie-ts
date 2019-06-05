@@ -20,7 +20,7 @@
 
 **NORMAL**:  = "NORMAL"
 
-*Defined in [types/index.ts:254](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L254)*
+*Defined in [types/index.ts:254](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L254)*
 
 ___
 <a id="nowebservice"></a>
@@ -29,7 +29,7 @@ ___
 
 **NOWEBSERVICE**:  = "NOWEBSERVICE"
 
-*Defined in [types/index.ts:255](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L255)*
+*Defined in [types/index.ts:255](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L255)*
 
 ___
 <a id="safemode"></a>
@@ -38,7 +38,7 @@ ___
 
 **SAFEMODE**:  = "SAFEMODE"
 
-*Defined in [types/index.ts:256](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L256)*
+*Defined in [types/index.ts:256](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L256)*
 
 ___
 

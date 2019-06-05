@@ -25,7 +25,7 @@
 
 **BUNDLE_RERUN**:  = "bundle-rerun"
 
-*Defined in [types/index.ts:266](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L266)*
+*Defined in [types/index.ts:266](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L266)*
 
 ___
 <a id="change"></a>
@@ -34,7 +34,7 @@ ___
 
 **CHANGE**:  = "change"
 
-*Defined in [types/index.ts:267](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L267)*
+*Defined in [types/index.ts:267](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L267)*
 
 ___
 <a id="coord_rerun"></a>
@@ -43,7 +43,7 @@ ___
 
 **COORD_RERUN**:  = "coord-rerun"
 
-*Defined in [types/index.ts:265](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L265)*
+*Defined in [types/index.ts:265](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L265)*
 
 ___
 <a id="dryrun"></a>
@@ -52,7 +52,7 @@ ___
 
 **DRYRUN**:  = "dryrun"
 
-*Defined in [types/index.ts:263](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L263)*
+*Defined in [types/index.ts:263](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L263)*
 
 ___
 <a id="rerun"></a>
@@ -61,7 +61,7 @@ ___
 
 **RERUN**:  = "rerun"
 
-*Defined in [types/index.ts:264](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L264)*
+*Defined in [types/index.ts:264](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L264)*
 
 ___
 <a id="resume"></a>
@@ -70,7 +70,7 @@ ___
 
 **RESUME**:  = "resume"
 
-*Defined in [types/index.ts:262](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L262)*
+*Defined in [types/index.ts:262](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L262)*
 
 ___
 <a id="start"></a>
@@ -79,7 +79,7 @@ ___
 
 **START**:  = "start"
 
-*Defined in [types/index.ts:260](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L260)*
+*Defined in [types/index.ts:260](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L260)*
 
 ___
 <a id="suspend"></a>
@@ -88,7 +88,7 @@ ___
 
 **SUSPEND**:  = "suspend"
 
-*Defined in [types/index.ts:261](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L261)*
+*Defined in [types/index.ts:261](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L261)*
 
 ___
 

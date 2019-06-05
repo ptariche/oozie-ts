@@ -22,7 +22,7 @@
 
 **DELETE**:  = "delete"
 
-*Defined in [types/index.ts:249](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L249)*
+*Defined in [types/index.ts:249](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L249)*
 
 ___
 <a id="get"></a>
@@ -31,7 +31,7 @@ ___
 
 **GET**:  = "get"
 
-*Defined in [types/index.ts:246](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L246)*
+*Defined in [types/index.ts:246](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L246)*
 
 ___
 <a id="patch"></a>
@@ -40,7 +40,7 @@ ___
 
 **PATCH**:  = "patch"
 
-*Defined in [types/index.ts:250](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L250)*
+*Defined in [types/index.ts:250](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L250)*
 
 ___
 <a id="post"></a>
@@ -49,7 +49,7 @@ ___
 
 **POST**:  = "post"
 
-*Defined in [types/index.ts:247](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L247)*
+*Defined in [types/index.ts:247](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L247)*
 
 ___
 <a id="put"></a>
@@ -58,7 +58,7 @@ ___
 
 **PUT**:  = "put"
 
-*Defined in [types/index.ts:248](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L248)*
+*Defined in [types/index.ts:248](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L248)*
 
 ___
 

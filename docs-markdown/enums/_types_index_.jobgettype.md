@@ -21,7 +21,7 @@
 
 **DEFINITION**:  = "definition"
 
-*Defined in [types/index.ts:278](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L278)*
+*Defined in [types/index.ts:278](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L278)*
 
 ___
 <a id="grapth"></a>
@@ -30,7 +30,7 @@ ___
 
 **GRAPTH**:  = "graph"
 
-*Defined in [types/index.ts:277](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L277)*
+*Defined in [types/index.ts:277](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L277)*
 
 ___
 <a id="info"></a>
@@ -39,7 +39,7 @@ ___
 
 **INFO**:  = "info"
 
-*Defined in [types/index.ts:279](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L279)*
+*Defined in [types/index.ts:279](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L279)*
 
 ___
 <a id="log"></a>
@@ -48,7 +48,7 @@ ___
 
 **LOG**:  = "log"
 
-*Defined in [types/index.ts:276](https://github.com/ptariche/oozie-ts/blob/9acdc55/src/types/index.ts#L276)*
+*Defined in [types/index.ts:276](https://github.com/ptariche/oozie-ts/blob/83e55cd/src/types/index.ts#L276)*
 
 ___
 
