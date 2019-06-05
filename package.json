@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "prepublish": "npm run build",
+    "prepublish": "npm run build && npm run documentation",
     "documentation": "./node_modules/.bin/typedoc --target ES6 --out docs/ ./src",
     "build": "./node_modules/.bin/tsc",
     "start": "./node_modules/.bin/ts-node ./src/index.ts",
