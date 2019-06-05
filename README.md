@@ -2,7 +2,7 @@
 A Node module for Oozie in Typescript
 
 [![npm version](https://badge.fury.io/js/oozie-api.svg)](https://badge.fury.io/js/oozie-api)
-[![Build Status](https://travis-ci.org/ptariche/oozie-ts.svg?branch=master)](https://travis-ci.org/ptariche/typescript-koa-mongoose-starter)
+[![Build Status](https://travis-ci.org/ptariche/oozie-ts.svg?branch=master)](https://travis-ci.org/ptariche/oozie-ts)
 
 ## Documentation
 
