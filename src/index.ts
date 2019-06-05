@@ -76,7 +76,7 @@ class Oozie {
   };
 
   private xmlHeader = () => {
-    return {headers: {'Content-Type': 'text/xml'}};
+    return {headers: {'Content-Type': 'application/xml'}};
   }
 
   private xmlStatement = () => {
@@ -302,7 +302,7 @@ class Oozie {
   public getJobs:getJobsFunction = async (filter, offset, limit, timezone, version) => {
     let path:string = `/v${this.getVersion(version)}/jobs?`;
 
-    if (filter)   path += `filter=${encodeURIComponent(filter)}`;
+    if (filter)   path += `&filter=${encodeURIComponent(filter)}`;
     if (offset)   path += `&offset=${offset}`;
     if (limit)    path += `&len=${limit}`;
     if (timezone) path += `&timezone=${timezone}`;
@@ -312,5 +312,7 @@ class Oozie {
 
 };
 
-export default Oozie;
+export {
+  Oozie as client
+};
 

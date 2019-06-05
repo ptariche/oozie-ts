@@ -47,7 +47,7 @@ type statusFunction = (apiVersion?: apiVersion) =>  Promise<{systemMode: systemM
  *
  * @param apiVersion - Optional* Override the API version from your config
 */
-type setStatusFunction = (mode: systemMode, apiVersion: apiVersion) =>  Promise<null|undefined>;
+type setStatusFunction = (mode: systemMode, apiVersion?: apiVersion) =>  Promise<null|undefined>;
 
 /**
  * @remarks
@@ -277,7 +277,7 @@ enum jobGetType {
   GRAPTH = 'graph',
   DEFINITION = 'definition',
   INFO = 'info'
-}
+};
 
 enum timezone {
   GMT = 'GMT',
