@@ -1,6 +1,6 @@
 {
   "name": "oozie-api",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A node module for oozie in Typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

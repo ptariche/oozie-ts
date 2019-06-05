@@ -36,7 +36,7 @@ $ npm start
 
 ### Enums Usage
 ```js
-  import * as OozieAPIEnums from 'oozie-api/types' or   const OOZIEAPI_ENUMS = require('oozie-api/types');
+  import * as OozieAPIEnums from 'oozie-api/dist/types' or   const OOZIEAPI_ENUMS = require('oozie-api/dist/types');
 ```
 
 ### Development
