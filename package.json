@@ -5,8 +5,9 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "prepublish": "npm run build && npm run documentation",
-    "documentation": "./node_modules/.bin/typedoc --target ES6 --out docs/ ./src",
+    "prepublish": "npm run build && npm run documentation-html && npm run documentation-markdown",
+    "documentation-html": "./node_modules/.bin/typedoc --target ES6 --out docs-html/ ./src",
+    "documentation-markdown": "./node_modules/.bin/typedoc --theme markdown --out docs-markdown/ ./src",
     "build": "./node_modules/.bin/tsc",
     "start": "./node_modules/.bin/ts-node ./src/index.ts",
     "test": "jest --forceExit --coverage --verbose"
@@ -39,6 +40,7 @@
     "ts-jest": "^24.0.2",
     "ts-node": "^8.2.0",
     "typedoc": "^0.14.2",
+    "typedoc-plugin-markdown": "^1.2.1",
     "typescript": "^3.5.1"
   },
   "dependencies": {
