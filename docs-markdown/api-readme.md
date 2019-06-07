@@ -40,7 +40,7 @@ $ npm install --save oozie-api
     oozieUrl: 'http://127.0.0.1:11000/oozie'
   });
 
-  _client..buildVersion().then(result => console.log(result));
+  _client.buildVersion().then(result => console.log(result));
 
 ```
 
