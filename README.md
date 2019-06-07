@@ -6,7 +6,6 @@ A Node module for Oozie in Typescript
 
 ## Documentation
 
-* [MARKDOWN](./docs-markdown/api-readme.md)
 * [HTML](./docs-html/index.html)
 
 ----
