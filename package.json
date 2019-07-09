@@ -1,6 +1,6 @@
 {
   "name": "oozie-api",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A node module for oozie in Typescript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -41,7 +41,7 @@
     "ts-node": "^8.3.0",
     "typedoc": "^0.14.2",
     "typedoc-plugin-markdown": "^1.2.1",
-    "typescript": "^3.5.2"
+    "typescript": "^3.5.3"
   },
   "dependencies": {
     "axios": "^0.19.0"
