@@ -4,7 +4,7 @@ title: timezone
 sidebar_label: timezone
 ---
 
-[oozie-api](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [timezone](api-enums-types-index-timezone.md)
+[oozie-api - v0.1.10](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [timezone](api-enums-types-index-timezone.md)
 
 ## Enumeration
 

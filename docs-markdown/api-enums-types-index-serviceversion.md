@@ -4,7 +4,7 @@ title: serviceVersion
 sidebar_label: serviceVersion
 ---
 
-[oozie-api](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [serviceVersion](api-enums-types-index-serviceversion.md)
+[oozie-api - v0.1.10](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [serviceVersion](api-enums-types-index-serviceversion.md)
 
 ## Enumeration
 

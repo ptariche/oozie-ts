@@ -4,7 +4,7 @@ title: jobGetType
 sidebar_label: jobGetType
 ---
 
-[oozie-api](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [jobGetType](api-enums-types-index-jobgettype.md)
+[oozie-api - v0.1.10](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [jobGetType](api-enums-types-index-jobgettype.md)
 
 ## Enumeration
 

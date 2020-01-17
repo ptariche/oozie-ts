@@ -4,7 +4,7 @@ title: apiVersion
 sidebar_label: apiVersion
 ---
 
-[oozie-api](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [apiVersion](api-enums-types-index-apiversion.md)
+[oozie-api - v0.1.10](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [apiVersion](api-enums-types-index-apiversion.md)
 
 ## Enumeration
 

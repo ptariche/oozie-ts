@@ -4,7 +4,7 @@ title: Oozie
 sidebar_label: Oozie
 ---
 
-[oozie-api](api-readme.md) > [[index Module]](api-modules-index-module.md) > [Oozie](api-classes-index-oozie.md)
+[oozie-api - v0.1.10](api-readme.md) > [[index Module]](api-modules-index-module.md) > [Oozie](api-classes-index-oozie.md)
 
 ## Class
 

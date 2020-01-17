@@ -1,7 +1,7 @@
 ---
 id: api-readme
-title: oozie-api
-sidebar_label: oozie-api
+title: oozie-api - v0.1.10
+sidebar_label: oozie-api - v0.1.10
 ---
 
 [

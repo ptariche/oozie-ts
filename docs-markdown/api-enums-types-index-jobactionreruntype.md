@@ -4,7 +4,7 @@ title: jobActionRerunType
 sidebar_label: jobActionRerunType
 ---
 
-[oozie-api](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [jobActionRerunType](api-enums-types-index-jobactionreruntype.md)
+[oozie-api - v0.1.10](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [jobActionRerunType](api-enums-types-index-jobactionreruntype.md)
 
 ## Enumeration
 

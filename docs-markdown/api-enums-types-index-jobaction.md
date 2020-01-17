@@ -4,7 +4,7 @@ title: jobAction
 sidebar_label: jobAction
 ---
 
-[oozie-api](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [jobAction](api-enums-types-index-jobaction.md)
+[oozie-api - v0.1.10](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [jobAction](api-enums-types-index-jobaction.md)
 
 ## Enumeration
 

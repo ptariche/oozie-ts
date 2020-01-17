@@ -4,7 +4,7 @@ title: systemMode
 sidebar_label: systemMode
 ---
 
-[oozie-api](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [systemMode](api-enums-types-index-systemmode.md)
+[oozie-api - v0.1.10](api-readme.md) > [[types/index Module]](api-modules-types-index-module.md) > [systemMode](api-enums-types-index-systemmode.md)
 
 ## Enumeration
 
