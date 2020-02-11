@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/ptariche/oozie-ts#readme",
   "devDependencies": {
-    "@types/chai": "^4.2.8",
+    "@types/chai": "^4.2.9",
     "@types/jest": "^24.9.1",
     "@types/supertest": "^2.0.8",
     "chai": "^4.2.0",
